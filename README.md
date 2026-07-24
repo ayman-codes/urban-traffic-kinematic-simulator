@@ -26,6 +26,17 @@ It models complex, multimodal traffic flows to quantify the systemic impact of r
 
 ---
 
+
+
+
+https://github.com/user-attachments/assets/4c1f3d9f-28de-4ea3-bac9-2f477a1c9b6a
+
+
+
+
+
+
+
 ## ⚠️ Data Availability & NDA Notice
 
 **Please note:** The core empirical data utilized to parameterize this simulation—including high-resolution traffic volume counts, precise municipal signal timings, and proprietary intersection geometries—was provided by the **Stadtplanungsamt Magdeburg** (City Planning Office of Magdeburg) under a strict Non-Disclosure Agreement (NDA). 
